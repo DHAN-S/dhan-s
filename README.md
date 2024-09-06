@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Dhanush
 Seeking opportunities in Java & MySQL.
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                              
-- 🌱 I’m currently learning SPRINGBOOT
+- 🌱 I’m currently learning SPRINGBOOT & REACT
 - 👯 I’m looking to collaborate on BACK-END
 - 🤔 I’m looking for help with Placements in Software
 - 💬 Ask me about Tech
